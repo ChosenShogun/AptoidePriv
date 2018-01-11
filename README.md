@@ -7,8 +7,7 @@ This is a Magisk module to make Aptoide a privileged app systemlessly.
 - Installs Aptoide 8.6.0.1
 
 ## Links
-* [GitHub](https://github.com/thehappydinoa/AptoidePriv/)
-* [Support](https://github.com/thehappydinoa/AptoidePriv/issues)
+* [GitHub](https://github.com/Magisk-Modules-Repo/AptoidePriv)
+* [Support](https://github.com/Magisk-Modules-Repo/AptoidePriv/issues)
 * [Donate](https://github.com/thehappydinoa)
 
-## [Download](https://github.com/thehappydinoa/AptoidePriv/releases/latest)
