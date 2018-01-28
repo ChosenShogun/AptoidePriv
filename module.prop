@@ -1,7 +1,7 @@
 id=AptoidePriv
 name=AptoidePriv
-version=8.6.1.0
-versionCode=8.6.1.0
+version=v1.0.3
+versionCode=01282018
 author=thehappydinoa
 description=Make Aptoide a Privileged App
 minMagisk=1400
