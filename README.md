@@ -4,7 +4,7 @@ This is a Magisk module to make Aptoide a privileged app systemlessly.
 ## Notes
 
 - Requires Magisk 14+
-- Installs Aptoide 8.6.0.1
+- Installs Aptoide 8.6.1.0
 
 ## Links
 * [GitHub](https://github.com/Magisk-Modules-Repo/AptoidePriv)
