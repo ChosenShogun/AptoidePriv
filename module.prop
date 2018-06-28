@@ -4,6 +4,6 @@ version=v1.0.3
 versionCode=01282018
 author=thehappydinoa
 description=Make Aptoide a Privileged App
-minMagisk=1400
+minMagisk=1500
 support=https://github.com/Magisk-Modules-Repo/AptoidePriv/issues
 donate=https://github.com/thehappydinoa
